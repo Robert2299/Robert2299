@@ -65,7 +65,7 @@ I am a web developer with 2 years of studio experience. <img src="https://media.
 
 ---
 
-<!-- ### 💻 Courses completed:
+ ### 💻 Courses completed:
 
 | Courses                                                           | Дата              |
 | ----------------------------------------------------------------| :-----------------: |
@@ -77,7 +77,7 @@ I am a web developer with 2 years of studio experience. <img src="https://media.
 | https://www.kursfinder.de//JavaScript + ReactJS                   | 08/2020 - 12/2020 |
 | stepik.org/Web-технологии:  Web Full                              | 02/2021 - 04/2021 |
 
---- -->
+---
 
 ### 💻 Codewars:
 
