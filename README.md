@@ -17,7 +17,7 @@ I am a C# developer with 4 years of studio experience. <img src="https://media.g
 
 - :zap: Python Data Analyst (parsers, telegram bots... others) 2 years
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vorbanlo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yaho432@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Untdevlog) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yaho432@gmail.com)
 
 ---
 
@@ -26,7 +26,7 @@ I am a C# developer with 4 years of studio experience. <img src="https://media.g
 ### 🤝 Social media:
 
   <div id="badges">
-    <a href="https://t.me/Untdevlog" target="_blank">
+    <a href="https://t.me/Untdevlog " target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
