@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am a web developer with 2 years of studio experience. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.  1 year of experience working in a game development studio on Unity, as a c# developer. Tried my hand at data science, but I was most attracted to web development! Currently working on freelancing.
+I am a C# developer with 4 years of studio experience. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.  1 year of experience working in a game development studio on Unity, as a c# developer. Tried my hand at data science, but I was most attracted to C#! Currently working on freelancing.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -26,7 +26,7 @@ I am a web developer with 2 years of studio experience. <img src="https://media.
 ### 🤝 Social media:
 
   <div id="badges">
-    <a href="https://t.me/Vorbanlo" target="_blank">
+    <a href="https://t.me/Untdevlog" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
