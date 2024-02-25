@@ -11,13 +11,11 @@ I am a web developer with 2 years of studio experience. <img src="https://media.
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: C# - 1 year working in GameDev Unity (experience working on {VR/AR} project).
+- :telescope: C# - 4 year working  (experience working on {VR/AR} project).
 
-- :seedling: JavaScript + ReactJS (2 years of official employment with an English firm - ToGO).
+- :seedling: JavaScript + ReactJS (1 years of official employment with an English firm - ToGO).
 
-- :zap: Python + Django (1 year )
-
-- :zap: Python (parsers, telegram bots... others) 2 years
+- :zap: Python Data Analyst (parsers, telegram bots... others) 2 years
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vorbanlo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yaho432@gmail.com)
 
